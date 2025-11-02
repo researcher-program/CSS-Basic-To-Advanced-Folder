@@ -1,0 +1,28 @@
+body{
+    background-color: #111111;
+    color: rgba(241, 177, 157, 0.514);
+    /* width: px; */
+    
+margin-left: 5%;
+margin-right: 3%;
+margin-bottom: 5%;
+}
+h1{
+    font-size: 80px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 2%;
+   background-color: rgb(13, 109, 194);
+   color: aliceblue;
+   border-radius: 1px 100px;
+   /* border-color: rgb(219, 198, 9); */
+   border: double;
+   padding: 17px;
+}
+p{
+    margin-top: 0;
+    color: aliceblue;
+}
+a{
+    color: chartreuse;
+}
